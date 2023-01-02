@@ -1,10 +1,7 @@
 # Fundamentals of Data Analytics
 
-***
-
 #### Student Lais Coletta Pereira
 
-***
 
 ## Introduction
 
@@ -51,11 +48,11 @@ This will create a new directory called repository, and download the contents of
 
 In this repository there is a folder called practicals, a gitignore (personalised for macos), the folder 'Datasets' (that contains the dataset used in the exercises) and a Jupyter Notebook called Normal Distribution. The practicals folder contains the assignments for each topic discussed in this module, the topics were: 
 
-    * Topic 1: Information
-    * Topic 2: Randomness
-    * Topic 3: Bias
-    * Topic 4: Outliers
-    * Topic 5: Cleasing
+ * Topic 1: Information
+ * Topic 2: Randomness
+ * Topic 3: Bias
+ * Topic 4: Outlier
+ * Topic 5: Cleasing
 
 At the end of each section of the topicts, our lecturer gave us an exercise to practice what we have learned.
 

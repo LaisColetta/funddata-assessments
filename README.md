@@ -34,9 +34,7 @@ In order to run this repository locally you will follow the steps described belo
 To clone this repository using the command line, you will need to have Git installed on your system. You can check if Git is already installed by running the following command in your terminal:
 
 ```
-
 git --version
-
 ```
 
 If Git is not installed, you can install it by following the instructions for your operating system from the official Git website: https://git-scm.com/downloads
@@ -45,7 +43,6 @@ Once you have Git installed, you can clone a repository using the git clone comm
 
 ```
 git clone git@github.com:LaisColetta/funddata-assessments.git
-
 ```
 
 This will create a new directory called repository, and download the contents of the repository into that directory. The directory name is created based on the name of the repository you are cloning.
